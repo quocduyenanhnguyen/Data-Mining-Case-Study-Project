@@ -1,7 +1,7 @@
 [Note: you can preview files that are in R and PDF format by clicking on the file]
 
 # Software I used:
-[RStudio] [https://www.rstudio.com/products/rstudio/download/]
+[RStudio][https://www.rstudio.com/products/rstudio/download/]
 
 # Description: 
 Supervised learning: I was in charge of writing codes to build linear regression model, logistic regression model, and decision tree models (both regression and classification trees) on the Boston Housing and Credit Card dataset, and tested model accuracy by evaluating MSE values (for numerical response variable) and misclassification costs (for binary response variable). And then I concluded the analysis with several written reports, with the help of my partner by delegating tasks to my partner. The output of my codes along with my description for each output are also included in all reports. 
